@@ -6,4 +6,7 @@ ladoo
 pizza
 chicken fry
 
+beans
+potato
+
 Thank you:)
